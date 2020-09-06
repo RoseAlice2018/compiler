@@ -1,4 +1,9 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\compiler1-Token",
+    "\\compiler1-Token\\Project1"
+  ],
+  "SelectedNode": "\\compiler1-Token\\Project1\\Lex.cpp",
   "PreviewInSolutionExplorer": false
 }
